@@ -1,4 +1,4 @@
-# Decoder
+# QuantumDecoder
 A Simple intensive implementation of Bernstein-Vazirani Algorithm using Qiskit and basic Quantum Cryptography
 
 
